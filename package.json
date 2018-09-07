@@ -1,5 +1,5 @@
 {
-  "name": "Door Controller Service",
+  "name": "doorControllerService",
   "version": "0.0.1",
   "private": true,
   "description": "Door Controller Service",
